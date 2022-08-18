@@ -1,6 +1,6 @@
 {
-  "homepage": "https://gheorghe-nistor.github.io/react-todo-list-app/",
-  "name": "react-todo-list-app",
+  "homepage": "https://gheorghe-nistor.github.io/react-get-things-done/",
+  "name": "react-get-things-done",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
