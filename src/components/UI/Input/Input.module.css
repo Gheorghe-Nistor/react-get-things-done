@@ -1,0 +1,11 @@
+.input {
+  border: 1px solid black;
+  padding: 1px;
+  text-transform: capitalize;
+  font-family: "Raleway";
+  font-size: 1.1rem;
+}
+
+.input:focus {
+  outline: 1px solid black;
+}

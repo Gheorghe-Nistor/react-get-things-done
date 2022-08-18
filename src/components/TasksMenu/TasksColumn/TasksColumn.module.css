@@ -1,0 +1,14 @@
+.tasksColumn{
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    height: 330px;
+    width: 350px;
+    border: 1px solid black;
+}
+
+.tasksColumn .title{
+    padding: 5px;
+    font-size: 1.2rem;
+    font-style: italic;
+    text-align: center;
+}

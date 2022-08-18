@@ -1,0 +1,23 @@
+.task {
+  padding: 5px 10px;
+  background-color: #ffffff;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.task > p {
+  flex: 1;
+}
+
+.task > span {
+  padding: 0px;
+  cursor: pointer;
+  transition: transform 1s, color 1s linear;
+}
+
+.task > span:hover {
+  color: darkred;
+  transform: rotateZ(360deg);
+}
